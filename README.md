@@ -3,7 +3,7 @@
 # Estetica
 
 Este repositório contém um projeto focado em estética, utilizando principalmente HTML, CSS e JavaScript.
-[ACESSE O PROJETO ONLINE]( https://jakis19.github.io/estetica/)
+[ACESSE O PROJETO ONLINE](https://jaquelinevieira-dev.github.io/estetica/)
 
 ## 📋 Descrição
 
@@ -31,7 +31,8 @@ O projeto tem como objetivo oferecer uma base para sites ou aplicações voltada
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/jakis19/estetica.git
+   git clone(https://jaquelinevieira-dev.github.io/estetica/)
+
    ```
 
 2. Abra o arquivo `index.html` em seu navegador preferido.
